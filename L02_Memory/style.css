@@ -1,0 +1,96 @@
+
+body {
+    background-color: lightgray;
+}
+    
+
+.time {
+    margin: auto;
+    display: block;
+    
+} 
+/* .card {
+    position: absolute;
+    top: 25%;
+    background-color: gray;
+    height: 4.2rem;
+	width: 4.2rem;
+	border: 1px white;
+	border-radius: 5px;
+	background-color: gray;
+	box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    text-align: center;
+    font-size: xx-large;
+} */
+/* .letter{
+    font-size: xx-large;
+    color: white;
+} */
+.main {
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    height: 30%;
+    width: 70%;
+    font-family: monospace;
+    font-size: xx-large;
+}
+h1 {
+    font-family: monospace;
+    text-align: center;
+}
+h2 {
+    font-family: monospace;
+    margin-left: 10%;
+
+}
+h3 {
+    font-family: monospace;
+    margin-left: 10%;
+}
+.startbutton {
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    margin: auto;
+    display: block;
+}
+.input {
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    margin-left: 10%;
+}
+.choose {
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    margin-left: 10%;
+}
+.dropdown {
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    margin-left: 10%;
+    /*box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    padding: 10px 15px;
+    margin: auto;
+    display: block;  */
+}
+.timefield {
+    font-family: monospace;
+    font-size: large;
+    border: none;
+    margin-left: 10%;
+}
+.rule {
+    font-family: monospace;
+    font-size: large;
+    text-align: center;
+}
