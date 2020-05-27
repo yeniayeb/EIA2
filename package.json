@@ -6,7 +6,7 @@
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
-    "start": "node 06_Server/Home-Helper/Server.js"
+    "start": "node 06_Server/L06_Server/Server.js"
   },
   "repository": {
     "type": "git",
